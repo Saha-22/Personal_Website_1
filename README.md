@@ -1,2 +1,1 @@
-"# Personal_Website_1" 
-"# Personal_Website_1" 
+This is my personal profile code, designed to showcase my skills and experiences.
